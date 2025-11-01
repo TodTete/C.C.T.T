@@ -65,14 +65,12 @@ CCTT-a.c/
 
 ````
 
----
 
 ## 🔧 Instalación y Uso
 
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/TodTete/CCTT-a.c
-````
 
 2. **Configurar servidor local (XAMPP, Laragon, etc.)**
    Coloca los archivos en la carpeta `htdocs/` o equivalente.
@@ -84,8 +82,6 @@ CCTT-a.c/
 
 4. **Acceder al sistema:**
    👉 [http://localhost/CCTT-a.c](http://localhost/CCTT-a.c)
-
----
 
 ## 🔮 Futuras Mejoras
 
