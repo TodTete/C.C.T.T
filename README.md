@@ -94,7 +94,7 @@ CCTT-a.c/
 
 ## 👨‍💻 Autor
 
-**Ricardo Vallejo Sánchez**
+**Ricardo Vallejo Sánchez  @TodTete** 
 Desarrollador Full-Stack | Apasionado por la nube, DevOps y soluciones multiplataforma.
 
 🔗 [GitHub - TodTete](https://github.com/TodTete)
